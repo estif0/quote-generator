@@ -10,4 +10,4 @@
 ## Simple Look
 
 ![Sample Quote](Sample-Quote.jpg)
-[Open Project in Web](https://estifanose-sahilu.github.io/Quote-Generator/)
+[Open Project in Web](https://estifan0s.github.io/Quote-Generator/)
