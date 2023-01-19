@@ -11,3 +11,6 @@
 
 ![Sample Quote](Sample-Quote.jpg)
 [Open Project in Web](https://estif0.github.io/quote-generator/)
+
+
+License: The repository is licensed under the MIT License.
