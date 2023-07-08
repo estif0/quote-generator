@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap");
 
 html {
   box-sizing: border-box;
@@ -16,9 +16,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-
 }
-.quote-container{
+.quote-container {
   width: auto;
   max-width: 900px;
   padding: 20px 30px;
@@ -26,27 +25,27 @@ body {
   background-color: rgba(255, 255, 255, 0.4);
   box-shadow: 0px 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
-.quote-text{
+.quote-text {
   font-size: 2.75rem;
 }
-.long-quote{
+.long-quote {
   font-size: 2rem;
 }
-.fa-quote-left{
+.fa-quote-left {
   font-size: 4rem;
 }
-.quote-author{
+.quote-author {
   margin-top: 15px;
   font-size: 2rem;
   font-weight: 400;
   font-style: italic;
 }
-.button-container{
+.button-container {
   margin-top: 15px;
   display: flex;
   justify-content: space-between;
 }
-button{
+button {
   cursor: pointer;
   font-size: 1.2rem;
   height: 2.5rem;
@@ -58,25 +57,25 @@ button{
   padding: 0.5rem 1.8rem;
   box-shadow: 0 0.3rem rgba(121, 121, 121, 0.6);
 }
-button:hover{
+button:hover {
   filter: brightness(150%);
 }
-button:active{
-  transform: translate(0,0.3rem);
+button:active {
+  transform: translate(0, 0.3rem);
   box-shadow: 0 0.1rem rgba(255, 255, 255, 0.6);
 }
-.twitter-button:hover{
+.twitter-button:hover {
   color: #38a1f3;
 }
-.fa-twitter{
+.fa-twitter {
   font-size: 1.5rem;
 }
 
 /* Loader */
 
 .loader {
-  border: 16px solid #fff; 
-  border-top: 16px solid #333; 
+  border: 16px solid #fff;
+  border-top: 16px solid #333;
   border-radius: 50%;
   width: 120px;
   height: 120px;
@@ -84,15 +83,19 @@ button:active{
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 @media screen and (max-width: 1000px) {
-  .quote-container{
+  .quote-container {
     margin: auto 10px;
   }
-  .quote-text{
+  .quote-text {
     font-size: 2.5rem;
   }
 }
