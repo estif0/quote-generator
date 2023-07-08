@@ -10,4 +10,7 @@
 ## Simple Look
 
 ![Sample Quote](Sample-Quote.jpg)
-[Open Project in Web](https://estifanose-sahilu.github.io/Quote-Generator/)
+[Open Project in Web](https://estif0.github.io/quote-generator/)
+
+
+License: The repository is licensed under the MIT License.
